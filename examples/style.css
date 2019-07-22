@@ -25,13 +25,21 @@ li{
 }
 
 table{
-   font-style: inherit;
+   
 }
 
 form{ 
     border-width: thin;
     border-style: solid;
     border-color:black;
+}
+ 
+div #Blockone{
+    background-color:#C44900;
+}
+
+div2=#This section is about paragraphs{
+    text-align: right;
 }
 
 
