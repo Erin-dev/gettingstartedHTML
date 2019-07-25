@@ -28,30 +28,66 @@ form{
     background-color:#727D71;
     font-size: x-small;
     font-style: italic;
+    color:#34252F;
+    position: sticky;
+    border-style: dashed;
+    padding: 10px;
+    margin: 25px;
+    width: 37px;
+    height: 62px;
 }
 
 #relative{
     background-color:#DB6C79;
     font-size: large;
     font-style: inherit;
+    color:#ECFFF8;
+    position: absolute;
+    border-style: groove;
+    padding: 30px;
+    margin: 55px;
+    width: 67px;
+    height: 22px;
 }
 
 #fixed{
     background-color:#7DDF64;
     font-size: xx-small;
     font-style: italic;
+    color:#F24333;
+    position: static;
+    border-style: outset;
+    padding: 50px;
+    margin: 15px;
+    width: 27px;
+    height: 72px;
 }
 
 #absolute{
     background-color:#A8B7AB;
     font-size: medium;
     font-style: oblique;
+    color:#4C191B;
+    position: relative;
+    border-style: solid;
+    padding: 70px;
+    margin: 45px;
+    width: 57px;
+    height: 52px;
 }
 
 #sticky{
     background-color:#251605;
     font-size: x-large;
     font-style: normal;
+    color:#0A014F;
+    position: fixed;
+    border-style: double;
+    padding: 20px;
+    margin: 65px;
+    width: 47px;
+    height: 32px;
+
 }
 
 

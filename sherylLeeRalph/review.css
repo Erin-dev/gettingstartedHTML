@@ -1,0 +1,65 @@
+body{
+    border-style:ridge;
+    border-color:aquamarine;
+    margin: 10px;
+    padding: 25px;
+}
+
+#p{
+    border: 40px dotted red;
+}
+
+#blockthree{
+    border: 10px solid green;
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
+
+h1{
+    margin-left: 20px;
+    margin: auto;
+    position: relative;
+    top: 100px;
+    right: 100px;
+}
+
+h2{
+    margin: 25px;
+}
+
+h3{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#power{
+    padding-top: 30px;
+}
+
+#kindness{
+    height: 100px;
+}
+
+#dutiful{
+    width: 50%;
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+}
+
+#trust{
+    width: 200px;
+    padding: 25px;
+    border: 25px solid purple;
+}
+
+#confident{
+    position: absolute;
+    width: 95px;
+    height: 35px;
+}
+
+
