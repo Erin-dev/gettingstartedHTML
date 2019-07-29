@@ -56,10 +56,15 @@ h3{
     border: 25px solid purple;
 }
 
-#confident{
+img{
     position: absolute;
-    width: 95px;
-    height: 35px;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+    text-align: center;
+    width: 40%;
+    display: inline-block;
 }
-
 
