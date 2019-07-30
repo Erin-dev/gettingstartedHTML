@@ -87,7 +87,14 @@ form{
     margin: 65px;
     width: 47px;
     height: 32px;
+}
 
+#blockthree{
+    font-family: 'Nunito', sans-serif;
+}
+
+#blockfour{
+    font-family: 'Farro', sans-serif;
 }
 
 
