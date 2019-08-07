@@ -39,7 +39,7 @@ form{
 
 #relative{
     background-color:#DB6C79;
-    font-size: large;
+    font-size: medium;
     font-style: inherit;
     color:#ECFFF8;
     position: absolute;
@@ -52,7 +52,7 @@ form{
 
 #fixed{
     background-color:#7DDF64;
-    font-size: xx-small;
+    font-size: large;
     font-style: italic;
     color:#F24333;
     position: static;
@@ -97,5 +97,18 @@ form{
     font-family: 'Farro', sans-serif;
 }
 
+a:hover {
+  color: #FF00FF;
+  text-decoration: underline;
+}
 
+a:visited {
+  color: orange;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #273C2C;
+  text-decoration: underline;
+}
 
